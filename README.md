@@ -21,6 +21,11 @@
 - Descrição: Rede miradas é um projeto que tem o objetivo de implementar audiovisual em outras instituições. 
 - Github: https://github.com/danybarreto2008/Rede-Miradas
 
+### Projeto-Integrador--SSNE
+- Equipe: [Álvaro Claudino](https://github.com/alvar1505/), [Kaio](https://github.com/kaiokrz/), [Júlio Miguel](https://github.com/JulioMiguelLima/)
+- Descrição: Sistema de Suporte para Novos Estudantes
+- Github: https://github.com/kaiokrz/Projeto-Integrador--SSNE
+
 ## 2025
 
 ### site FITCROL
